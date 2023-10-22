@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\briya\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\practica11-Msalmeron95\\practica11-Msalmeron95.csproj",
+      "projectUniqueName": "C:\\Users\\briya\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica11-Msalmeron95\\practica11-Msalmeron95.csproj",
       "projectName": "practica11-Msalmeron95",
-      "projectPath": "C:\\Users\\briya\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\practica11-Msalmeron95\\practica11-Msalmeron95.csproj",
+      "projectPath": "C:\\Users\\briya\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica11-Msalmeron95\\practica11-Msalmeron95.csproj",
       "packagesPath": "C:\\Users\\briya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\briya\\OneDrive\\Studies\\El Salvador\\Univo\\2nd Semester\\540-PROGRAMACION DE COMPUTADORAS I SECCIÓN C\\Projects\\C#\\practica11-Msalmeron95\\obj\\",
+      "outputPath": "C:\\Users\\briya\\github-classroom\\Practicas-ProgramacionEstructurada-2023\\practica11-Msalmeron95\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\briya\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
